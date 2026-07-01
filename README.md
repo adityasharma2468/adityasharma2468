@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Data+Science+Internship+Projects;Titanic+Survival+Prediction;Movie+Rating+Prediction;Credit+Card+Fraud+Detection;Python+%7C+Scikit-Learn+%7C+Pandas" alt="Typing SVG" />
+</p>
 <h1 align="center">Hi there, I'm Aditya Kumar Sharma 👋</h1>
 <h3 align="center">Data Analyst | Turning raw data into actionable insights</h3>
 
