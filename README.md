@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-kumar-sharma-137503316?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="adityajjkl773975@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:adityajjkl773975@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
@@ -58,26 +58,26 @@
 <table>
   <tr>
     <td width="50%">
-      <h4>📈 Sales Performance Dashboard</h4>
-      <p>Interactive Power BI dashboard analyzing regional sales trends, built on top of a PostgreSQL data warehouse with automated ETL in Python.</p>
-      <a href="#"><img src="https://img.shields.io/badge/View_Project-2E9EF7?style=flat-square" /></a>
+      <h4>📈 Mobile-Sales-Dashboard-PowerBI</h4>
+      <p>Interactive Power BI dashboard analyzing mobile phone sales performance — tracking revenue, units sold, regional trends, and top-performing models with dynamic filters and drill-through reports.</p>
+      <a href="https://github.com/adityasharma2468/Mobile-Sales-Dashboard-PowerBI"><img src="https://img.shields.io/badge/View_Project-2E9EF7?style=flat-square" /></a>
     </td>
     <td width="50%">
-      <h4>🧹 Automated Data Cleaning Pipeline</h4>
-      <p>A Python + Pandas pipeline that cleans, validates, and standardizes messy Excel/CSV datasets before loading into PostgreSQL.</p>
-      <a href="#"><img src="https://img.shields.io/badge/View_Project-2E9EF7?style=flat-square" /></a>
+      <h4>🧹 Student-Social-Media-Mental-Health-Dashboard</h4>
+      <p>Interactive dashboard analyzing the relationship between social media usage and mental health among students — exploring screen time, platform preferences, sleep patterns, and stress/anxiety indicators through data visualization.</p>
+      <a href="https://github.com/adityasharma2468/Student-Social-Media-Mental-Health-Dashboard"><img src="https://img.shields.io/badge/View_Project-2E9EF7?style=flat-square" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h4>🗃️ SQL Query Optimization Toolkit</h4>
-      <p>A collection of optimized PostgreSQL queries and indexing strategies for faster reporting on large datasets.</p>
-      <a href="#"><img src="https://img.shields.io/badge/View_Project-2E9EF7?style=flat-square" /></a>
+      <h4>🗃️ Amazon-Product-Analysis-Dashboard</h4>
+      <p>Data analysis of Amazon product listings — pricing, ratings & category performance insights.</p>
+      <a href="https://github.com/adityasharma2468/Amazon-Product-Analysis-Dashboard"><img src="https://img.shields.io/badge/View_Project-2E9EF7?style=flat-square" /></a>
     </td>
     <td width="50%">
-      <h4>📊 Excel-to-BI Automation</h4>
-      <p>A tool that automatically converts raw Excel reports into refreshed Power BI dashboards using Python scripting.</p>
-      <a href="#"><img src="https://img.shields.io/badge/View_Project-2E9EF7?style=flat-square" /></a>
+      <h4>📊 Codsoft</h4>
+      <p>A collection of machine learning projects completed during my Data Science internship at CodSoft, applying Python and predictive modeling techniques to real-world datasets — including movie rating prediction, credit card fraud detection, and Titanic survival prediction.</p>
+      <a href="https://github.com/adityasharma2468/CODSOFT"><img src="https://img.shields.io/badge/View_Project-2E9EF7?style=flat-square" /></a>
     </td>
   </tr>
 </table>
@@ -87,9 +87,9 @@
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aditya-kumar-sharma-137503316?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  <a href="mailto:adityajjkl773975@gmai.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
+  <a href="https://github.com/adityasharma2468"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github&logoColor=white" /></a>
 </p>
 
 <p align="center">
