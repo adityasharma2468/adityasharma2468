@@ -90,14 +90,6 @@
 
 ---
 
-### 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditya-kumar-sharma-137503316?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
-  <a href="https://github.com/adityasharma2468"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github&logoColor=white" /></a>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=2E9EF7" alt="Profile views" />
 </p>
